@@ -1,0 +1,13 @@
+sudo apt-get install sdcc binutils python python-pip 
+
+sudo pip install -U pip 
+
+sudo pip install -U -I pyusb 
+
+sudo pip install -U platformio 
+
+sudo pip install -U click==5.1 
+
+sudo pip install -U pyusb==1.0.0 
+
+sudo pip install -U tabulate==0.7.5
